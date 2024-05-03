@@ -96,7 +96,7 @@ No.
 
 **Social media accounts**
 
-No.
+- twitter: `@TruLensML`
 
 **Existing sponsorship**
 
