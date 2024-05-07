@@ -65,14 +65,19 @@ Several python packages enumerated in `requirements.txt`.
 
 **Initial committers (name, email, organization) and how long have they been working on project**
 
-- Aaron Varghese, Truera, 2 months
-- Corey Hu, Truera,, 1.5 years
-- Daniel Huang Truera,, 1.5 years
-- Garett Tok, Truera,, 1.5 years
-- Josh Reini, Truera, 1.5 years
-- Piotr Mardziel, Truera, piotrm@truera.com, 1.5 years
-- Rick Shih, (then) Truera,, 1.5 years
-- Shayak Sen, Truera,, 1.5 years
+Initial release: June 29, 2023
+
+- Joshua Reini, Truera, <josh.reini@truera.com>, 1.2 years
+- Piotr Mardziel, Truera, <piotrm@truera.com>, 1.2 years
+- Rick Shih, (then) Truera, ?, 1.2 years
+
+Subsequent committers:
+
+- Aaron Varghese, Truera, <aaron@truera.com>, 2 months
+- Corey Hu, Truera, <corey@truera.com>, ?
+- Daniel Huang, Truera, <daniel@truera.com>, ?
+- Garett Tok, Truera, <garett@truera.com>, ?
+- Shayak Sen, Truera, <shayak@truera.com>, ?
 
 **Have the project defined the roles of contributor, committer, maintainer, etc**
 
