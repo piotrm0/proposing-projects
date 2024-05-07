@@ -6,13 +6,17 @@
 
 **Project description:**
 
-TODO
+Trulens allows users to create credible and powerful LLM apps, faster. TruLens is a software tool that helps you to objectively measure the quality and effectiveness of your LLM-based applications using feedback functions. Feedback functions help to programmatically evaluate the quality of inputs, outputs, and intermediate results, so that you can expedite and scale up experiment evaluation. Use it for a wide variety of use cases including question answering, summarization, retrieval-augmented generation, and agent-based applications.
+
+**Statement on alignment with LF AI’s mission:**
+
+Trulens allows users to evaluate their LLM applications. LLMs and LLM applications align directly with the mission of the LF AI & Generative AI Commons to foster open collaboration and ecosystem improvements in AI and Generative AI.
 
 **Have you identified possible collaboration opportunities with current LF AI hosted projects (https://lfai.foundation/projects/)?**
 
 - Acumos AI
 
-- Adversarial Robustness Toolbox
+- Adversarial Robustness Toolbox - Integrate robustness measures into TruLens' evaluation toolbox.
 
 - AI Explainability 360
 
@@ -20,13 +24,23 @@ TODO
 
 - CLAIMED
 
-- IntersectionalFairness (ISF)
+- IntersectionalFairness (ISF) - Integrate bias measures into TruLens'
+  evaluation toolbox.
 
 - Ludwig
 
-- Milvus
+- Milvus: Trulens can evaluate LLM context stored on the Milvus vector DB.
+  
+- ForestFlow: serve LLMs that can be queried by Trulens.
+  
+- JanusGraph: Trulens can evaluate LLM context store in JanusGraph.
 
-- (LF project outside of AI) opentelemetry
+LF Projects outside of LF AI:
+
+- (CNCF) opentelemetry, especially the Semantic Conventions for
+  AI (sub)project.
+
+Note. Since the space is evolving fast there will likely be collaborations with other open source projects that are not part of the LF. In the future some of this project could become part of the LF.
 
 **License name**
 
